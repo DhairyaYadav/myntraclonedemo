@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;500&family=Roboto:wght@300&display=swap');
+.flex{
+    display: flex;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.align-right{
+    align-items: right;
+}
+
+.flex-row{
+    flex-direction: row;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.fontweight{
+    font-weight: bold;
+}
+
+.spacebetween{
+    justify-content: space-between;
+}
+
+.Customheading{
+    font-weight: bold;
+    font-family: 'Assistant', sans-serif;
+    font-size: x-large;
+    word-spacing: 5px;
+    margin: 50px 0 10px 30px;
+    
+}
+
+.imgtop{
+    height: auto;
+    width: 100%;
+    margin-top: 48px
+}
+
+.imgbottom{
+    height: auto;
+    width: 100%;
+    margin-top: 0px
+}
